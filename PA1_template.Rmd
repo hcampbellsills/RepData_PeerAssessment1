@@ -1,7 +1,7 @@
 ---
 output:
-  html_document: default
   pdf_document: default
+  html_document: default
 ---
 # Data Science Specialisation, Course 5, assignment 1
 HCS' assignment 1 for Reproductible Research course
